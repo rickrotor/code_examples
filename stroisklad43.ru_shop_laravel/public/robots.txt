@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:
+
+Host: https://stroisklad43.ru
+Sitemap: https://stroisklad43.ru/sitemap.xml
